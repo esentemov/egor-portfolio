@@ -20,22 +20,22 @@ export default function About() {
           <div className="grid grid-cols-2 gap-8">
             <div className="space-y-2">
               <div className="text-6xl font-bold text-[#B7F34D]">6+</div>
-              <div className="text-gray-400">Years Experience</div>
+              <div className="text-gray-400">Years in Product Analytics</div>
             </div>
 
             <div className="space-y-2">
-              <div className="text-6xl font-bold text-[#B7F34D]">∞</div>
-              <div className="text-gray-400">End-to-end Analytics Systems</div>
+              <div className="text-6xl font-bold text-[#B7F34D]">80+</div>
+              <div className="text-gray-400">Experiments Designed &amp; Analyzed</div>
             </div>
 
             <div className="space-y-2">
-              <div className="text-6xl font-bold text-[#B7F34D]">50+</div>
-              <div className="text-gray-400">A/B Tests Launched</div>
+              <div className="text-6xl font-bold text-[#B7F34D]">KPI</div>
+              <div className="text-gray-400">Frameworks &amp; Metric Trees</div>
             </div>
 
             <div className="space-y-2">
-              <div className="text-6xl font-bold text-[#B7F34D]">3</div>
-              <div className="text-gray-400">Full-stack Products Built</div>
+              <div className="text-6xl font-bold text-[#B7F34D]">DATA</div>
+              <div className="text-gray-400">Architecture &amp; Data Models</div>
             </div>
           </div>
         </div>
