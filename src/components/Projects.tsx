@@ -10,7 +10,7 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: 'Wishflow',
+    title: 'Wishflow.me',
     description: 'Wishlist platform built with Next.js & Supabase',
     details: 'Full analytics architecture, payments, product experimentation',
     tags: ['Product Analytics', 'Full-stack', 'Experimentation'],
