@@ -16,8 +16,8 @@ export default function Hero() {
   };
 
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center pt-20 px-6 relative">
-      <div className="max-w-7xl w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+    <section id="hero" className="min-h-screen flex items-center justify-center pt-20 px-6">
+      <div className="w-full max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
         <div className="space-y-8 z-10">
           <div>
             <h1 className="text-6xl lg:text-8xl font-bold leading-none mb-4">
@@ -48,7 +48,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="relative lg:absolute lg:right-0 lg:top-1/2 lg:-translate-y-1/2 flex justify-center lg:justify-end">
+        <div className="relative flex justify-center lg:justify-center">
           <div className="relative w-[400px] h-[500px] rounded-3xl overflow-hidden shadow-2xl">
             <img
               src={heroPhoto}

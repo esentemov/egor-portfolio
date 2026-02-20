@@ -7,13 +7,13 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           <div className="space-y-6">
             <p className="text-xl text-gray-300 leading-relaxed">
-              Hi, I'm Egor — a Senior Product Analyst and builder.
+              Hi, I'm Egor — a Senior Product Analyst and product builder.
             </p>
             <p className="text-xl text-gray-300 leading-relaxed">
-              I create end-to-end analytics systems, from event tracking and data modeling to KPI frameworks used as a single source of truth.
+              I design analytics systems from the ground up: tracking architecture, data models, KPI frameworks, and metric trees used as a single source of truth.
             </p>
             <p className="text-xl text-gray-300 leading-relaxed">
-              I work closely with product and engineering teams to turn complex data into structured decisions and measurable growth.
+              I run experiments end-to-end and work cross-functionally with product and engineering to turn data into measurable growth.
             </p>
           </div>
 
