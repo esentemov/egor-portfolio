@@ -1,3 +1,5 @@
+import heroPhoto from '../assets/main_photo.jpg';
+
 export default function Hero() {
   const scrollToContact = () => {
     const element = document.getElementById('contact');
@@ -49,7 +51,7 @@ export default function Hero() {
         <div className="relative lg:absolute lg:right-0 lg:top-1/2 lg:-translate-y-1/2 flex justify-center lg:justify-end">
           <div className="relative w-[400px] h-[500px] rounded-3xl overflow-hidden shadow-2xl">
             <img
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src={heroPhoto}
               alt="Egor Sentemov"
               className="w-full h-full object-cover"
             />
